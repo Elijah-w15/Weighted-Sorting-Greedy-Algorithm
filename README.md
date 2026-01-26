@@ -1,4 +1,4 @@
-# Weighted-Sorting-Algorithm-Greedy
+# Weighted-Sorting-Algorithm-Greedy (Formated for .py)
 # =============================================================================
 #                 **** KEY: HOW TO TUNE WEIGHTS *********                                                
 #             (This is a limited example to explain tuning)
