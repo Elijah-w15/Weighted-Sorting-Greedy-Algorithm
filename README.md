@@ -86,5 +86,5 @@ If this is close to 1 for a bunch of different combinations, the algorithm will 
 
 ---
 
-This project was 100% hand coded
+This project was 100% hand coded.
 
